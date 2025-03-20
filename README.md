@@ -83,7 +83,7 @@ Font Awesome for icons
 Three.js for 3D effects
 Placeholder.com for temporary image placeholders
 👤 Author
-Tafsin Ahmed - [Your Website](https://tafsinahmed.info/) - tafsinahmed80p@gmail.com
+Tafsin Ahmed - (https://tafsinahmed.info/) - tafsinahmed80p@gmail.com
 💬 Feedback
 If you have any feedback or suggestions, please open an issue or reach out directly!
 Made with ❤️ by Tafsin Ahmed
